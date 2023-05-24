@@ -14,7 +14,7 @@
       "express",
       "postgresql"
     ],
-    "author": "Max",
+    "author": "Max Mora",
     "license": "MIT",
     "dependencies": {
       "express": "^4.17.1",
