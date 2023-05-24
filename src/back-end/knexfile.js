@@ -2,9 +2,10 @@ module.exports = {
     development: {
       client: 'pg',
       connection: {
-        host: 'localhost',
+        host: 'hansken.db.elephantsql.com',
+        port: 5432,
         user: 'wmsqpfaw',
-        password: 'your_password',
+        password: 'pW5v8-D47Gvgpz3p3OJ69iFLhtLhnSZS',
         database: 'wmsqpfaw',
       },
       migrations: {
