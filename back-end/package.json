@@ -4,7 +4,7 @@
     "description": "Backend for the Expense Project",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js"
+        "start": "node backend/server.js"
     },
     "keywords": [
         "expense",
