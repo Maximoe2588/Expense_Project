@@ -1,7 +1,14 @@
-import "./App.css";
+import React from 'react';
+import ExpenseTracker from './ExpenseTracker';
+import './App.css';
 
 function App() {
-  return <h1>Expense Tracker</h1>;
+  return (
+    <div className="App">
+      <h1>Expense Tracker</h1>
+      <ExpenseTracker />
+    </div>
+  );
 }
 
 export default App;
